@@ -5,3 +5,10 @@
 #main{
     background-color: rgb(204, 134, 63);
 }
+#ttl h1{
+    width: 100px;
+}
+section{
+    display: flex;
+    flex-direction: column;
+}
